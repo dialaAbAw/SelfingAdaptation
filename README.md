@@ -1,2 +1,2 @@
 # SelfingAdaptation
-  C++ program for simulating a population of partially self-fertilizing individuals forced to adapt from pre-existing standing genetic variation. 
+ C++ program for simulating a population of partially self-fertilizing individuals forced to adapt from pre-existing standing genetic variation. This program is a multiallelic modified version of the script used in Abu Awad, Diala; Roze, Denis (2018), Effects of partial selfing on the equilibrium genetic variance, mutation load and inbreeding depression under stabilizing selection, Dryad, Dataset, https://doi.org/10.5061/dryad.jk4r6
